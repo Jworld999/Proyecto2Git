@@ -10,3 +10,5 @@ Console.WriteLine("Hello, World!");
 
 
 //Modulo generar recibo
+
+//creacion de BLL
