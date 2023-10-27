@@ -8,5 +8,7 @@ Console.WriteLine("Hello, World!");
 
 //Enviar correos
 
-
 //Modulo generar recibo
+
+
+//Modulo generar recibo de base de datos
